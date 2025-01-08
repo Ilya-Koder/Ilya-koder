@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Ilya a frontend developer that is building their knowledge and skills
+
+Join me as I learn and develop!
+
+- 🌱 I’m currently learning Javascript
 <!--
 **Ilya-Koder/Ilya-koder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
